@@ -1,0 +1,11 @@
+{
+  "name": "JapaneseStringUtilsICU4J",
+  "label": "[[label]]",
+  "description": "[[description]]",
+  "group": "com.automationanywhere",
+  "artifactName": "bot-command-JapaneseStringUtilsICU4J",
+  "packageVersion": "1.0.0",
+  "iconPath": "icons/",
+  "codeVersion": "",
+  "commands": []
+}
